@@ -107,8 +107,7 @@ body {
 }
 
 .testimonial:nth-of-type(1) {
-  background: var(--color-p1) url("./images/bg-pattern-quotation.svg") no-repeat
-    top right 64px;
+  background: var(--color-p1) url("./images/bg-pattern-quotation.svg") no-repeat top right 64px;
   grid-area: first;
 }
 
